@@ -1,0 +1,6 @@
+framework module Pods_ReactiveSwift_Sample {
+  umbrella header "Pods-ReactiveSwift_Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
